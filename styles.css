@@ -1,0 +1,19 @@
+:root {
+    --cta-text: hsl(356, 100%, 66%);
+    --cta-hover-bkg: hsl(355, 100%, 74%);
+    --headings: hsl(208, 49%, 24%);
+    --white-text: hsl(0, 0%, 100%);
+    --foter-text: hsl(240, 2%, 79%);
+    --body-copy-gray: hsl(207, 13%, 34%);
+    --footer-bkg: hsl(240, 10%, 16%);
+    --font-size: 16px;  
+  }
+
+  header {
+    header{
+        background: url(./images/bg-pattern-intro-mobile.svg) no-repeat, linear-gradient(135deg, hsl(13, 100%, 72%), hsl(353, 100%, 62%));
+        background-position: 34% 33%;
+        border-bottom-left-radius: 6rem;
+    }
+    
+  }
